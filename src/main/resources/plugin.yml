@@ -1,0 +1,10 @@
+name: MineQuest-AncientRPG
+main: net.teamio.minequest.ancientrpg.Main
+version: 2.0.0
+description: AncientRPG addon to MineQuest
+author: Xu_R
+website: www.theminequest.com
+
+load: POSTWORLD
+
+softdepend: [MineQuest,AncientRPG]
